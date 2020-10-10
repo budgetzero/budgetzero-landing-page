@@ -14,11 +14,11 @@
 #   link: /contact/
 #   new_window: false
 #   highlight: false
-# - name: Sign Up
-# link: /
-# new_window: true
-# highlight: true
-- name: BudgetZero App
-  link: /
+- name: Github
+  link: https://github.com/stefanjf/Budget-Zero
   new_window: true
   highlight: false
+- name: Get Started
+  link: https://app.budgetzero.io
+  new_window: true
+  highlight: true
