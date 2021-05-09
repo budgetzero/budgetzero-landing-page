@@ -73,7 +73,7 @@ nav {
 			border-radius: 5px;
 
 			&:hover {
-				background: #fff;
+				background: rgba($brand-color, .15);
 				color: $brand-color;
 			}
 		}
