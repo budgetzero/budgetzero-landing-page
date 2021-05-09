@@ -6,19 +6,19 @@
 #   link: /blog/
 #   new_window: false
 #   highlight: false
-- name: About
-  link: /about/
-  new_window: false
-  highlight: false
+#- name: About
+#  link: /about/
+#  new_window: false
+#  highlight: false
 # - name: Contact
 #   link: /contact/
 #   new_window: false
 #   highlight: false
 - name: Github
-  link: https://github.com/stefanjf/Budget-Zero
+  link: https://github.com/budgetzero/budgetzero
   new_window: true
   highlight: false
-- name: Get Started
+- name: Start Budgeting
   link: https://app.budgetzero.io
   new_window: true
   highlight: true
